@@ -3,3 +3,4 @@
 
 1 - Calcular a média do aluno a partir de 3 notas sendo que a primeira prova tem peso 2, a segunda prova tem peso 3 e a terceira prova tem peso 5. Obs.: É uma média ponderada
 
+2 - Receba o salário de um funcionário, acrescente 8% ao valor desse salário. Em cima do resultado, desconte 2%. No final, mostre O salário final, valor do aumento e valor do desconto.
